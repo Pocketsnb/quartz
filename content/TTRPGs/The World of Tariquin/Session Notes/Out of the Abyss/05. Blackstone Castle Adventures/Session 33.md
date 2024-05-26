@@ -1,0 +1,12 @@
+---
+title: "Session 33"
+tags: [ootaNotes]
+---
+## Session 33
+Propping the dead bugbear up against the door, Xael holds the door shut as the party prepares for combat. On cue, Xael opened the door, a bugbear charging through and swiftly being killed. engaged in combat, the party quickly deals with the remaining bugbear and goblins. Within the room, the party sees the southern wall caved in, revealing a floor covered thick in brambles, with violet tinged light coming from pustules of fungus on the walls and ceiling. It appears the goblinoids were sorting twigs when interrupted.
+
+To the north, the party unlocks a door leading into what appears to be the private study of someone, with many historic almanacs describing the growth of plants and taxes collected. While searching, Urielle comes across a book titled "Treasures of the Fire Lords". Leaving the study and exploring the southern section and spying the branches of a dying tree further in, the party proceeds to slowly cut through the sickly briers which leak a viscous fluid. Andr'el comes up with an expeditious process of freezing the thorny briers before hacking into them.
+
+Soon, a person approaches from the cleared area surrounding the tree, the briers moving around him. Identifying himself as Belak, he tells the party he tends the grove of the Gulthias tree, grown from the splinters of a steak used to slay a vampire. The tree produces two fruits a year, one during the summer solstice that cures all ailments, and another during the winter solstice that produces an incurable toxin. Belak proposes the party joins with the Gulthias tree as supplicants, like the other two he's recently acquired. Xael, thinking to dupe Belak, offers his sword, which Belak tosses into the briers. Startled by this action, Xael climbs in after the sword as the party enters combat with Belak.
+
+Approaching from the tree, both Sir Bradford and Sharwyn Redwater enter combat with bark-like skin, being recent supplicants of the Gulthias tree. Defeating Belak first, the party then tries to subdue the two supplicants. Climbing on some rubble for a better vantage point, Andr'el tosses a fireball at the tree. A deep growl fills the cavern as the tree moves and the briers shake, small twig creatures appear surrounding the party. 

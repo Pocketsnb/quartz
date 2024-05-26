@@ -1,0 +1,18 @@
+---
+title: "Session 15"
+tags: [ootaNotes]
+---
+## Session 15
+Two days into their travel, after setting up camp and getting to rest, their fire inexplicably goes out the temperature drops dramatically and Uraelle is spirited away by an emissary to the Snow Queen. Because of her pact with the great Fey and the power she has used the Queen requests a specific individual within Stracili, Magnus Ferelli, be placed far outside the walls of the city alive. Upon acceptance of the task, Uraelle realizes how cold she had become. The camp fire, previously unable to be lit, takes light once more, and Uraelle returns to the camp.
+
+Three days later, the party reaches Stracili in the morning, the gates open and accepting all travelers. First visiting a general goods merchant, Xael bargains for the sale of some previously stolen baskets. The party then separates; Xael and Fenegir a clothier; Andr'el and Tazlynn towards The Broach Coach to sell a few gems, then Mel and Collies Orphanage, an orphanage Andr'el is the patron of; Uraelle looking for an alchemist.
+
+Xael sells off a few bags of clothing to a merchant who is wise enough to know the goods were stolen, then go to find a new merchant to sell too. Andr'el and Tazlynn reach Mel and Collies, donating some gold coin to purchase better school books and stationary, learning the orphanage director is doing a decent job at raising the children. Eventually, Xael, Andr'el, and Tazlynn run into each other. Uraelle doesn't find an alchemist, but stumbles upon the curiosity shop she's left her brother, Aymery, to run, but its name has changed to Local Exotic Goods. Heading inside, Uraelle quickly catches up with her brother, and proceeds to look over the sales history in the months she's been away.
+
+While discussing the books with Aymery, two patrons enter, and Aymery goes to speak with them. Outside, the rest of the party arrives and sees two thugs standing guard outside. A fight occurs, the two inside joining combat. As the fight ends, two of the thugs die, including the leader, the remaining two get tied up. Aymery explains that the thieves guild is under new management, Victor, and a new operation, exploiting money from various shops. Aymery identifies the four members; Sisek, the leader of the small band, Arthur, Pharn, and Magnus. An entourage of guards show up as the bodies are hauled upstairs to investigate the fight in the streets. With the bodies sequestered away they greet the guards. Aymery, unable to give a proper lie, is covered by Xael, still bleeding from the fight, explaining away the thieves guild members attacking him and escaping. The guards leave and the party plans their next move, to return in the night, remove the thieves from the store, and search out the thieves guild.
+
+Deciding to contact Proclin for help, the party heads to his home in the Royal District near the eastern gates, to find it warded to intruders. Andr'el bypasses them using the code words and discovers Proclin is absent. Greeted by a neighbor when wandering around the back yard, he sends the remainder of the party to a well known inn, the Purple Goat, while he finds out that Proclin, unable to contact Andr'el a few days after the heist, traveled to Rubicon to determine his whereabouts. Andr'el then sends a messenger to contact Proclin.
+
+Finishing business before the day is over, Xael and Uraelle head to an alchemist, with Xael purchasing a new drug, astral, and Uraelle selling ash from a demon.
+
+Upon meeting up at the Purple Goat Inn, Andr'el imparting the news that it will be two weeks before Proclin returns, the party prepares for the night, and returns to Local Exotic Goods. 

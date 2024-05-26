@@ -1,0 +1,23 @@
+---
+title: "-400,000 First God's War"
+tags: [timeline, history]
+fc-category: History
+---
+<span class='ob-timelines'
+	data-date='-400000-00-00-00'
+	data-title='First God&#39;s War'
+	data-class='orange'>The Stakkar re-establish their connection to magic with the aid of some Himmel and perform the first Ritual of Ascension.
+	The deities The Artist, The Crafter, The Traveler, The Endless Battle, The Huntress, The Tangled Web, The Coming Storm, and The Writer are born.
+	The First God's War takes place. The Tangled Web trapped in the Abyss, races of mortals begin to transform. Wyverns begin to transform into dragons and leave for the continent they name Demirci.</span>
+## -400,000 First God's War
+The [[Tariquin Campaign Setting/Culture/Ancestry/Stakkar|Stakkar]], with the aid of a few [[Tariquin Campaign Setting/Culture/Ancestry/Himmel|Himmel]], rediscovered their connection to magic using the [[Tariquin Campaign Setting/Culture/Magic/Ritual of Ascension|Ritual of Ascension]] to devastating ends. Those involved in the ritual become the first of the new gods: [[Tariquin Campaign Setting/Culture/Pantheon/The Artist|The Artist]], [[Tariquin Campaign Setting/Culture/Pantheon/The Crafter|The Crafter]], [[Tariquin Campaign Setting/Culture/Pantheon/The Traveler|The Traveler]], [[Tariquin Campaign Setting/Culture/Pantheon/The Endless Battle|The Endless Battle]], [[Tariquin Campaign Setting/Culture/Pantheon/The Huntress|The Huntress]], [[Tariquin Campaign Setting/Culture/Pantheon/The Tangled Web|The Tangled Web]], [[Tariquin Campaign Setting/Culture/Pantheon/The Coming Storm|The Coming Storm]], and [[Tariquin Campaign Setting/Culture/Pantheon/The Writer|The Writer]].
+
+Factions soon appeared within the Stakkar with The Crafter, The Tangled Web, and The Traveler believing the ritual to have been worthwhile. In opposition, The Crafter, The Endless Battle, and The Coming Storm believed the ritual proof that magic should be abandoned. The Huntress, The Writer, and their followers abstain from the conflict, hoping to first see how the ritual effected the world.
+
+The conflict soon turned into war, and caused much of the forest on [[Tariquin Campaign Setting/Geography/Tariquin/Saltus/Saltus|Saltus]] to recede. The Himmel, seeking shelter from the war, fled to a continent to the south east naming it Iledagaba (now [[Tariquin Campaign Setting/Geography/Tariquin/Iletiku/Iletiku|Iletiku]]) and continuing their worship of [[Tariquin Campaign Setting/Culture/Pantheon/The Bestial|The Bestial]].
+
+Eventually tiring of the war, each side sought The Writer and The Huntress to act as an intermediary in the conflict. A peace was brokered but seeking to prolong the conflict, The Tangled Web incited The Endless Battle to attack his ally The Crafter. Seeing the attack, The Traveler intercepted to keep the peace, her hair and face singed away in the process. In retaliation, The Artist shot out The Endless Battle's eye before The Huntress could intervene. Witnessing the actions The Tangled Web had performed, The Huntress then banished her and her followers to the Abyss. With peace at hand, the gods and their followers went their separate ways, The Crafter forging a mask and wig of precious metals for The Traveler.
+
+The followers of The Endless Battle changed into orcs and goblins, those followers of The Traveler into halflings. The followers of The Coming Storm left to the north east, becoming the giants on a continent they named Kolos, while the followers of The Crafter left to the mountains, becoming the dwarves. The Artist and The Huntress remained within the forests, now split by a scorched plain, becoming modern high and wild elves. The followers of The Writer, now seeing the wisdom of the self exiled [[Tariquin Campaign Setting/Culture/Ancestry/Nerthes|Nerthes]], joined with them and became humans. The Himmel who left to the south east became gnomes on what is now Iletiku.
+
+Magical fallout from the ritual triggered an evolution among wyverns into dragons. These creatures headed to a continent of tall peaks they named [[Tariquin Campaign Setting/Geography/Tariquin/Demirci/Demirci|Demirci]]. The winds also carried the changing magic to the west, morphing the creatures living on [[Tariquin Campaign Setting/Geography/Tariquin/Dzemji/Dzemji|Dzemji]] into what are now known as the wilder races; the Aarakocra, Harengon, Kenku, Khenra, Leonin, Lizardfolk, Loxodon, Minotaur, Owlin, and Tabaxi.

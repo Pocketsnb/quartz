@@ -1,0 +1,106 @@
+---
+title: "Quests and Questions"
+world: Icewind Dale
+Campaign: Rime of the Frostmaiden
+tags: [quicklink]
+---
+
+## Personal
+- [ ] Earn coin
+- [ ] Find sister, Bright
+	- [ ] Last seen around [[TTRPGs/The World of Icewind Dale/Places/Bremen|Bremen]] with some people
+	- [ ] With older woman about Kallum's age, Gina
+		- [ ] Black hair, tallish, scar running down face across nose and cheek, green eyes
+- [ ] Assist Bright
+	- [ ] Tear of Selune off to the north of Icewind Dale.
+- [ ] Deal with Shar
+	- Kill Auril
+		- Castle in the northern reaches of Icewind Dale
+	- Recover a scroll
+		- In ancient ruins to the north
+
+## General
+- [x] Find [[TTRPGs/The World of Icewind Dale/People/Sephek Kaltro|Sephek Kaltro]], ascertain guilt, bring him back (dead) if guilty
+	- Location?
+		- [ ] ~~[[TTRPGs/The World of Icewind Dale/Places/Easthaven|Easthaven]]~~
+		- [ ] ~~[[TTRPGs/The World of Icewind Dale/Places/Bryn Shander|Bryn Shander]]~~
+		- [x] [[TTRPGs/The World of Icewind Dale/Places/Targos|Targos]]
+	- Last victim, Uriaries Othronus
+		- stabbed in the heart
+		- middle of the night (2 weeks ago)
+		- no blood
+		- wound frozen over
+		- window shattered
+		- worked as a hunter
+		- no previously known interactions for motive
+		- no known truth behind being exempt from lottery
+		- leaves child and wife ([[TTRPGs/The World of Icewind Dale/People/Nerina Othronus|Nerina]]) behind
+	- 100 gp reward each
+		- [x] Collected?
+- [x] Purchase tents and blankets for cold-weather travel
+- [x] Deliver Brimstone Cube to [[TTRPGs/The World of Icewind Dale/People/Cynthia Reed|Cynthia Reed]]
+	- Cube belongs to Cynthia's Companion Rho
+	- Cynthia is aggressive
+	- 56 gp reward
+		-  [x] Collected?
+- [ ] Find out what happened to [[TTRPGs/The World of Icewind Dale/People/Garret Velryn|Garret Velryn]] and the Adventurers
+	- [x] Garrett Velryn
+		- Guide in Icewind Dale
+		- Hired by adventurers to climb up Kelvin's Cairn
+		- First stopped by [[TTRPGs/The World of Icewind Dale/Places/Caer-Konig|Caer-Konig]]
+		- Check out Frozenfar Expedition
+	- [ ] Adventurers
+	- Scrimshaw reward
+		 - [ ] Collected?
+-	Xardorok Sunblight's a threat to the Ten-Towns
+	-	Fortress in the Spine of the World
+	-	A forge powered by the heart of a red dragon
+	- Has two sons
+		- Nildar Sunblight
+		- _ Sunblight
+- [x] Things stolen in Caer-Konig
+	- Lantern stolen from the Northern Light Tavern
+	- Magic Lantern, colorful
+	- Dwarves?
+	- 3 Nights
+	- Pearls stolen from Frozenfar Expeditions
+	- Trail of footprints towards Kelvin's Cairn
+- [ ]  Find the Cat's Tail Gourmet Fish market for Guarl
+- [x] Stolen Iron
+	- Iron stolen from dwarves in Bryn Shander
+	- Yeti attack?
+- [ ] Angerduke
+	- Sea of moving ice
+- [ ] The Black Cabin
+	-  See a gnome in Bryn Shander
+	- Weird weather
+	- Up North
+- [ ] Cackling Chasm
+	- In the south
+- [ ] Whirring Noise
+	- In the south near the Ten Trails
+	- Related to Laser Guns?
+	- Speak with goblin Izobai
+		-  Karkalock clan
+- [ ] Reghed Killers
+- [ ] Ship in the Sea
+	- In the Sea of Moving Ice
+	- Arveiaturace is interested in it
+- [ ] Ghostly Giants
+	- Frost giants in a weird ring of ice spires
+- [ ] Something going on with Karkalock
+	- Speak with goblin Izobai about it
+- [ ] Upside Down Spire
+	- outside Ten Towns outside Lac Dennishare, eastwards
+- [ ] Visit the Reghed Tribes
+	- Aid in the upcoming battle
+- [ ] Revel's End
+		- Prison where activities are going weird
+		- Near the sea of moving ice
+- [ ] Arveiaturace
+	- Ancient white dragon
+	- Pay a visit, give food, share stories
+- [ ] Goliaths
+	- Resolve dispute for assistance against Xardorok
+		- Skytower Shelter
+		- Wyrmdoom Craig
