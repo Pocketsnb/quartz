@@ -16,7 +16,7 @@ Born to a small clutch in Sallowshore on the eastern coast of Geb, Halish often 
 
 When he grew older, he was employed as a gardener for Tobias Highridge, the city's ruler. However, he had a penchant for eating the garden's plants and was eventually fired for eating Tobias' deceased wife's favorite flowers. To pay recompense, he was forced into work as a laborer for the Builders League, shoring up the flooded half of the city and setting posts in the water to prepare for new construction. He didn't see much point to the work, and even thought Geb wasn't all that great, till the Celebrants came by one day and dragged him to a church of Urgathoa where he feasted for three days. There he learned that if there are more undead there are more people to produce food. He's since become a cleric of hers, a supporter of Geb, helper of the undead, and eating whatever his appetite desires. 
 
-One day, when speaking of his philosophy on food, Berline Haldoli,the Blood Lord residing in Graydurge, overheard and took Halish in as a pupil. Halish now spends his time feasting, assisting the Celebrants, distributing food to the hungry, making sure the undead working the fields have everything they need, and learning about ways to produce food.
+One day, when speaking of his philosophy on food, Berline Haldoli, the Blood Lord residing in Graydurge, overheard and took Halish in as a pupil. Halish now spends his time feasting, assisting the Celebrants, distributing food to the hungry, making sure the undead working the fields have everything they need, and learning about ways to produce food.
 
 In the future, Halish hopes to see a Geb as the top produce of food in all of Golarion, but in the short term, to never be hungry, to always eat with “family”, and hopefully eat a dinosuar™.
 
@@ -68,4 +68,3 @@ Intimidation and Athletics. Potentially Lore: Cooking or Lore: Agriculture and
 - [Character Splat](https://docs.google.com/document/d/10zdoyMfw97yc2LC2KkE5Slem6l3CdyddDfQOuWAlH2s/edit)
 - [Character Build](https://pathbuilder2e.com/launch.html?build=764781)
 - [Heroforge](https://www.heroforge.com/load_config%3D47355167/)
-- 
