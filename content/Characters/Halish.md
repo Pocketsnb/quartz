@@ -58,7 +58,7 @@ Undead master, commanding a carrion bird in combat.
 ### Ancestry
 Focus on dinosaur bones and shedding his tail.
 ### Skills
-Intimidation and Athletics. Potentially Lore: Cooking or Lore: Agriculture and 
+Intimidation and Athletics. Potentially Lore: Cooking or Lore: Agriculture
 
 ## External Links
 - [Gila Monsters](https://en.wikipedia.org/wiki/Gila_monster)
