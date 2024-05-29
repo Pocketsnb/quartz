@@ -16,10 +16,9 @@ Born to a small clutch in Sallowshore on the eastern coast of Geb, Halish often 
 
 When he grew older, he was employed as a gardener for Tobias Highridge, the city's ruler. However, he had a penchant for eating the garden's plants and was eventually fired for eating Tobias' deceased wife's favorite flowers. To pay recompense, he was forced into work as a laborer for the Builders League, shoring up the flooded half of the city and setting posts in the water to prepare for new construction. He didn't see much point to the work, and even thought Geb wasn't all that great, till the Celebrants came by one day and dragged him to a church of Urgathoa where he feasted for three days. There he learned that if there are more undead there are more people to produce food. He's since become a cleric of hers, a supporter of Geb, helper of the undead, and eating whatever his appetite desires. 
 
-One day, when speaking of his philosophy on food, Berline Haldoli, the Blood Lord residing in Graydurge, overheard and took Halish in as a pupil. Halish now spends his time feasting, assisting the Celebrants, distributing food to the hungry, making sure the undead working the fields have everything they need, and learning about ways to produce food.
+One day, when speaking of his philosophy on food, Berline Haldoli, the Blood Lord residing in Graydurge, overheard and took Halish in as a pupil. Halish learns about magic and the dead from Berline, hoping to find better solutions for food production in Geb. Outside mentorship, Halish spends his time feasting, assisting the Celebrants, distributing food to the hungry, making sure the undead working the fields have everything they need, and learning about ways to produce food.
 
 In the future, Halish hopes to see a Geb as the top produce of food in all of Golarion, but in the short term, to never be hungry, to always eat with “family”, and hopefully eat a dinosuar™.
-
 ## Personality
 - Halish sees himself as a philosopher and gourmand. He thinks his idea of “a bowl for every hand, and a hand for every mouth” is quite something, and enjoys food, especially if he can eat something unusual.
 - Others see Halish as an imposing, kind, and well meaning iruxi. It seems his appetite is never satiated, but he can’t stand to see someone not eat, and will get them food.
@@ -49,7 +48,14 @@ In the future, Halish hopes to see a Geb as the top produce of food in all of Go
 - Learn how to improve the soil of Geb so it can produce a variety of food from all of Golarion.
 - Make Geb the largest food producer and exporter in all of Golarion.
 - After second death, feast in what he imagines is the long table of Urgathoa.
-
+## Connections
+### NPCs
+- Hasty: Diseased adolescent sister, keeps her bones in a sack on his waist.
+- Tobias Highridge: Leader of Sallowshore, Halish's former employer. Halish was fired from gardening the mansion for eating his diseased wives favorite flowers.
+- Berline Haldoli: Blood Lord residing in Graydurge, Halish's mentor in magic and the dead.
+### PCs
+- Kazimir: Halfling missing their left foot, the lucky one.
+- Amble: Chef person, cooks good food that Halish enjoys eating.
 ## Character Planning
 ### Class
 Cleric (warpriest). Charges into melee, frightens, and tries to cut foes down before any healing is needed.
@@ -58,8 +64,7 @@ Undead master, commanding a carrion bird in combat.
 ### Ancestry
 Focus on dinosaur bones and shedding his tail.
 ### Skills
-Intimidation and Athletics. Potentially Lore: Cooking or Lore: Agriculture
-
+Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
 ## External Links
 - [Gila Monsters](https://en.wikipedia.org/wiki/Gila_monster)
 - [Cleric Suggestions](https://rpgbot.net/p2/characters/classes/cleric/#cleric-feats)
@@ -68,3 +73,4 @@ Intimidation and Athletics. Potentially Lore: Cooking or Lore: Agriculture
 - [Character Splat](https://docs.google.com/document/d/10zdoyMfw97yc2LC2KkE5Slem6l3CdyddDfQOuWAlH2s/edit)
 - [Character Build](https://pathbuilder2e.com/launch.html?build=764781)
 - [Heroforge](https://www.heroforge.com/load_config%3D47355167/)
+- [Playlist](https://open.spotify.com/playlist/3m9sbHziXAGCqQWMdYphN1?si=adb0f9c1a4e74c9b)
