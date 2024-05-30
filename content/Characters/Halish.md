@@ -56,11 +56,12 @@ In the future, Halish hopes to see a Geb as the top produce of food in all of Go
 ### PCs
 - Kazimir: Halfling missing their left foot, the lucky one.
 - Amble: Chef person, cooks good food that Halish enjoys eating.
+- Feydrath: Judge that presided over Halish's dismissal from gardening and sentencing to work for the Builders Legion.
 ## Character Planning
 ### Class
 Cleric (warpriest). Charges into melee, frightens, and tries to cut foes down before any healing is needed.
 ### Dedication
-Undead master, commanding a carrion bird in combat.
+Undead master, commanding a carrion bird in combat. Carrion bird pterosaur flavored.
 ### Ancestry
 Focus on dinosaur bones and shedding his tail.
 ### Skills
@@ -74,3 +75,4 @@ Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
 - [Character Build](https://pathbuilder2e.com/launch.html?build=764781)
 - [Heroforge](https://www.heroforge.com/load_config%3D47355167/)
 - [Playlist](https://open.spotify.com/playlist/3m9sbHziXAGCqQWMdYphN1?si=adb0f9c1a4e74c9b)
+- [Pterosaur](https://en.wikipedia.org/wiki/Dearc)
