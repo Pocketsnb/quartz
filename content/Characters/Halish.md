@@ -92,6 +92,7 @@ Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
 - Halish understands that it takes others to do big things. Without others, who would tend the fields, cook the food, and serve it?
 - Halish’s greatest strength is the “compassion” of sharing a meal. His greatest weakness being his often single-minded pursuit of food.
 - Food is the thing that matters the most to Halish, being able to eat as much as he wants, and seeing others do the same.
+- Hates the color yellow.
 ### Special Features
 - The fat tail
 - At level two, getting a pet zombie pterosaur, small size, that will grow to medium (~3 ft growing to 5.5 ft)
