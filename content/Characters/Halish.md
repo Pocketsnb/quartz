@@ -6,7 +6,7 @@ tags:
   - Blords
 ---
 ![[Assets/Images/Characters/Halish_Heroforge.jpg]]
- ![[Assets/Images/Characters/Halish_Portrait.png]]
+ ![[Assets/Images/Characters/Halish_Portrait.webp]]
 # Halish
 Halish (he/him) goes by Halish (like delish). Being an iruxi, he finds it tedious to provide greater context with “of Sallowshore”. Where else would he be from?
 ## Description
