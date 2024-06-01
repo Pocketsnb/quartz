@@ -66,13 +66,46 @@ Undead master, commanding a carrion bird in combat. Carrion bird pterosaur flavo
 Focus on dinosaur bones and shedding his tail.
 ### Skills
 Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
-## External Links
+## Art Description
+### Body
+- Iruxi (Lizardfolk) 
+- 6'7"
+- orange, leathery, scaled skin
+- dark red osteoderm (underside)
+- yellow eyes
+- Bony, ebon protrusions frame eyes
+- Similar ebon color on claws and talons
+- Frill of skin framing the head
+- Fat tail, striped orange and black, used to keep fat stores in emergencies
+### Equipment 
+- simple shirt of chainmail 
+- leather shoulder pad on left shoulder
+- metal kneecaps
+- wrists are wrapped in cuffs made of small bones (finger bone size)
+- cyan padding stained black under chainmail
+- Long scarf, cyan and stained black around neck, wrapped once around (two layers on front, one on back) the two tails flowing backwards
+- on waist (right side) is a sack that looks filled with many long objects pushing on the sacks edges (sack filled with adolecent iruxi skeleton)
+- Strapped to back is a scythe of simple make
+### Personality traits
+- Halish sees himself as a philosopher and gourmand. He thinks his idea of “a bowl for every hand, and a hand for every mouth” is quite something, and enjoys food, especially if he can eat something unusual.
+- Others see Halish as an imposing, kind, and well meaning iruxi. It seems his appetite is never satiated, but he can’t stand to see someone not eat, and will get them food.
+- Halish understands that it takes others to do big things. Without others, who would tend the fields, cook the food, and serve it?
+- Halish’s greatest strength is the “compassion” of sharing a meal. His greatest weakness being his often single-minded pursuit of food.
+- Food is the thing that matters the most to Halish, being able to eat as much as he wants, and seeing others do the same.
+### Special Features
+- The fat tail
+- At level two, getting a pet zombie pterosaur, small size, that will grow to medium (~3 ft growing to 5.5 ft)
+	- Not necessary to include, but extra info, I guess??
+### Art Reference Links
 - [Gila Monsters](https://en.wikipedia.org/wiki/Gila_monster)
+- [Frilled Neck](https://www.australiangeographic.com.au/wp-content/uploads/2019/08/female_perfect_frill.jpg)
+- [Heroforge Model](https://www.heroforge.com/load_config%3D47355167/)
+- [Scythe](https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/18941.jpg/w=1200,q=75,metadata=keep)
+- [Pterosaur](https://en.wikipedia.org/wiki/Dearc)
+- [Spotify Playlist](https://open.spotify.com/playlist/3m9sbHziXAGCqQWMdYphN1?si=adb0f9c1a4e74c9b)
+## External Links
 - [Cleric Suggestions](https://rpgbot.net/p2/characters/classes/cleric/#cleric-feats)
 - [Urgathoa Archives](https://2e.aonprd.com/Deities.aspx?ID=19)
 - [Urgathoa Splat](https://pathfinderwiki.com/wiki/Urgathoa)
 - [Character Splat](https://docs.google.com/document/d/10zdoyMfw97yc2LC2KkE5Slem6l3CdyddDfQOuWAlH2s/edit)
 - [Character Build](https://pathbuilder2e.com/launch.html?build=764781)
-- [Heroforge](https://www.heroforge.com/load_config%3D47355167/)
-- [Playlist](https://open.spotify.com/playlist/3m9sbHziXAGCqQWMdYphN1?si=adb0f9c1a4e74c9b)
-- [Pterosaur](https://en.wikipedia.org/wiki/Dearc)
