@@ -70,6 +70,7 @@ Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
 ### Body
 - Iruxi (Lizardfolk) 
 - 6'7"
+- 240lbs.
 - orange, leathery, scaled skin
 - dark red osteoderm (underside)
 - yellow eyes
