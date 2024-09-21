@@ -1,11 +1,11 @@
 ---
 world: The World of Icewind Dale
 campaign: Rime of the Frostmaiden
-status: active
+status: Cancelled
 role: player
 system: dnd 5e
 type: world
-title: "The World of Icewind Dale"
+title: The World of Icewind Dale
 ---
 # The World of Icewind Dale
 

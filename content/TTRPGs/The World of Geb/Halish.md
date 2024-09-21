@@ -5,14 +5,46 @@ tags:
   - PF2e
   - Blords
 ---
+
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "TTRPGs/The World of Geb/The World of Geb.md"
+tasks: 
+  - id: "b9440497-a9e4-449a-af6c-dc866da38ae2"
+    priority: 1
+    name: "Complete Player Character"
+    description: "Complete Player Character Halish"
+    status: "complete"
+    type: "creation"
+    completionDate: "2024-07-21T15:18:48.829Z"
+images: 
+  - path: "Images/Characters/Halish_Heroforge.jpg"
+    caption: ""
+  - path: "Images/Characters/Halish_Portrait.webp"
+    caption: ""
+relationships: 
+  - type: "unidirectional"
+    path: "TTRPGs/The World of Geb/Kabriri.md"
+    description: ""
+  - type: "bidirectional"
+    path: "TTRPGs/The World of Geb/Hasty.md"
+  - type: "bidirectional"
+    path: "TTRPGs/The World of Geb/Tobias Highridge.md"
+  - type: "bidirectional"
+    path: "TTRPGs/The World of Geb/Berline Haldoli.md"
+    description: ""
+data: 
+  description: "Halish is an iruxi standing 6'7\", with orange skin, dark red osteoderm, and yellow eyes. Bony, ebon protrusions frame his eyes, and make up the color of his claws and talons. Framing his head is a frill of skin. His tail is fat, striped orange and black. He's adorned with a simple shirt of chainmail with a leather shoulder pad on the left side and metal kneecaps. His wrists are wrapped in cuffs made of small bones. Under the chain is cyan padding stained black. A simple, long scarf of the same coloring adorns his neck, the two tails flowing backwards. On his waist is a sack that looks filled with many long objects pushing on the sacks edges. Strapped to his back is a scythe, also of simple make."
+  pronoun: "he"
+```
+
 # Halish
 Halish (he/him) goes by Halish (like delish). Being an iruxi, he finds it tedious to provide greater context with “of Sallowshore”. Where else would he be from?
-## Description
-Halish is an iruxi standing 6'7", with bright blue leathery scaled skin, a darker blue osteoderm present on his belly, shoulders, and other vulnerable body parts, and yellow eyes. Bony, deep purple protrusions frame his eyes, while his claws and talons are white. His tail is fat, striped bright blue and deep purple. He wears no armor, instead, covering his legs with baggy pants of a dark charcoal color, a shoulder wrap of the same color, and a dark cyan waist cloth with a slit on the right side. His wrists are wrapped in cuffs made of small bones. A simple, long scarf of dark cyan adorns his neck, the two tails flowing backwards. On his waist is a sack that looks filled with many long objects pushing on the sacks edges. Strapped to his back is a scythe, also of simple make.
 ## Background
 Born to a small clutch in Sallowshore on the eastern coast of Geb, Halish often got in spats with his sister that his aunts and uncles often broke up. In their adolescence, during one particularly violent fight, Halish killed his sister and ate her flesh, but still keeps her bones as a memento. 
 
-When he grew older, he was employed as a gardener for Tobias Highridge, the city's ruler. However, he had a penchant for eating the garden's plants and was eventually fired for eating Tobias' deceased wife's favorite flowers. To pay recompense, he was forced into work as a laborer for the Builders League, shoring up the flooded half of the city and setting posts in the water to prepare for new construction. He didn't see much point to the work, and even thought Geb wasn't all that great, till the Celebrants came by one day and dragged him to a church of Urgathoa where he feasted for three days. There he shared the tale about him eating his sister. Following the feast, he was taken to the side by a worshipper%% of Kabriri amongst the priests of Urgathoa, and Halish learned the finer points of eating flesh and different ways of preparing it%%. Since then, he's become a cleric of%% Kabriri, hiding as a cleric of%% Urgathoa, helping the ghouls of Geb find food, and eating whatever his appetite desires.
+When he grew older, he was employed as a gardener for Tobias Highridge, the city's ruler. However, he had a penchant for eating the garden's plants and was eventually fired for eating Tobias' deceased wife's favorite flowers. To pay recompense, he was forced into work as a laborer for the Builders League, shoring up the flooded half of the city and setting posts in the water to prepare for new construction. He didn't see much point to the work, and even thought Geb wasn't all that great, till the Celebrants came by one day and dragged him to a church of Urgathoa where he feasted for three days. There he shared the tale about him eating his sister. Following the feast, he was taken to the side by a worshipper of Kabiri amongst the priests of Urgathoa, and Halish learned the finer points of eating flesh and different ways of preparing it. Since then, he's become a cleric of Kabiri, hiding as a cleric of Urgathoa, helping the ghouls of Geb find food, and eating whatever his appetite desires.
 
 One day, when speaking of his philosophy on food, Berline Haldoli, the Blood Lord residing in Graydurge, overheard and took Halish in as a pupil. Halish learns about magic and the dead from Berline, hoping to find better solutions for food production in Geb. Outside mentorship, Halish spends his time feasting, assisting the Celebrants, distributing food to the hungry, making sure the undead working the fields have everything they need, and learning about ways to produce food.
 
@@ -45,46 +77,41 @@ In the future, Halish hopes to see a Geb as the top produce of food in all of Go
 - Wake up, eat, sleep, repeat.
 - Learn how to improve the soil of Geb so it can produce a variety of food from all of Golarion.
 - Make Geb the largest food producer and exporter in all of Golarion.
-- %%After second death, be born as a ghoul and openly worship Kabriri.%%
+- After second death, be born as a ghoul and openly worship Kabiri.
 ## Connections
 ### NPCs
-- Hasty: Deceased adolescent sister, keeps her bones in a sack on his waist.
-- Tobias Highridge: Leader of Sallowshore, Halish's former employer. Halish was fired from gardening the mansion for eating his diseased wives favorite flowers.
-- Berline Haldoli: Blood Lord residing in Graydurge, Halish's mentor in magic and the dead.
+- 
 ### PCs
-- Kazimir: Chef person, cooks good food that Halish enjoys eating.
+- Kazimir: Halfling missing their left foot, the lucky one.
+- Amble: Chef person, cooks good food that Halish enjoys eating.
 - Feydrath: Judge that presided over Halish's dismissal from gardening and sentencing to work for the Builders Legion.
 ## Character Planning
 ### Class
-Cleric (warpriest). Charges into melee and tries to cut foes down before any healing is needed.
+Cleric (warpriest). Charges into melee, frightens, and tries to cut foes down before any healing is needed.
 ### Dedication
-Undead master, commanding a carrion bird in combat. Carrion bird that's been pterosaur flavored.
+Undead master, commanding a carrion bird in combat. Carrion bird pterosaur flavored.
 ### Ancestry
-Focus on dinosaur bones and eating ghosts.
+Focus on dinosaur bones and shedding his tail.
 ### Skills
-Occult and Athletics. Lore: Farming
-
-%%
-## Kabriri
-
-### Relations with Other Religions
-Kabriri’s faith is a secretive one, as might be expected from those who thrive while hiding beneath the very feet of those they feed upon. For the most part, worshippers of Kabriri avoid contact with other faiths, often because so many clerics are so well-armed and eager to smite and destroy the undead. Many ghouls harbor a guilty regret if, in life, they worshiped another deity, and they sometimes keep mementos of this previous faith in the form of gore-encrusted holy symbols, dirt-stained holy texts, or preserved portions of flesh harvested from priests. The faith of Kabriri hold Nethys and Norgorber in certain amounts of respect, for both of these faiths traffic in secrets and knowledge without attaching an “agenda” that tries to limit who or what can take advantage of those secrets—as long as one has the wherewithal to learn this lore, it deserves to be known, regardless of the purpose to which it is eventually put. Kabriri’s worshippers hold grudging respect for most other demon lords, and many openly worship Urgathoa and hold her as an equal or even superior over Kabriri. For his part, Kabriri’s teachings have always been subservient when the topics of Urgathoa and (to a lesser extent) Lamashtu come up. Such deference does not exist for Nocticula, who many worshippers of Kabriri regard as one of the worst kind of traitors—even more so than fellow ghouls who turn from evil. Both Nocticula and Arazni’s faiths have been open and welcoming to non-evil ghoul worshippers of late, a heresy that increasingly brings these two faiths into conflict with Kabriri’s fanatics—even more so than their traditional enemies like Sarenrae or Iomedae.
-%%
+Intimidation and Athletics. Potentially Lore: Cooking or Lore: Farming
 ## Art Description
 ### Body
-- Iruxi (Lizardfolk)
+- Iruxi (Lizardfolk) 
 - 6'7"
-- bright blue, leathery, scaled skin
-- darker blue osteoderm (underside) that is also on shoulders and vulnerable parts of body (acts like armor)
+- 240lbs.
+- orange, leathery, scaled skin
+- dark red osteoderm (underside)
 - yellow eyes
-- Bony, deep purple protrusions frame eyes
-- white color on claws and talons
-- Crest on head going from bright blue to purple
-- Fat tail, striped bright blue and deep purple color, used to keep fat stores in emergencies
+- Bony, ebon protrusions frame eyes
+- Similar ebon color on claws and talons
+- Frill of skin framing the head
+- Fat tail, striped orange and black, used to keep fat stores in emergencies
 ### Equipment 
+- simple shirt of chainmail 
+- leather shoulder pad on left shoulder
+- metal kneecaps
 - wrists are wrapped in cuffs made of small bones (finger bone size)
-- dark charcoal shoulder wrap, baggy pants, and waist belt
-- dark cyan waist cloth, covering one leg, leaving the other exposed
+- cyan padding stained black under chainmail
 - Long scarf, cyan and stained black around neck, wrapped once around (two layers on front, one on back) the two tails flowing backwards
 - on waist (right side) is a sack that looks filled with many long objects pushing on the sacks edges (sack filled with adolecent iruxi skeleton)
 - Strapped to back is a scythe of simple make
@@ -96,12 +123,12 @@ Kabriri’s faith is a secretive one, as might be expected from those who thrive
 - Food is the thing that matters the most to Halish, being able to eat as much as he wants, and seeing others do the same.
 - Hates the color yellow.
 ### Special Features
-- The fat tail similar to a gila monster
-- Hungry eyes and bared teeth
-- scaling on body
+- The fat tail
+- At level two, getting a pet zombie pterosaur, small size, that will grow to medium (~3 ft growing to 5.5 ft)
+	- Not necessary to include, but extra info, I guess??
 ### Art Reference Links
-- [Gila Monster tail and banding](https://en.wikipedia.org/wiki/Gila_monster)
-- [Armadillo Lizard scales](https://reptile.guide/wp-content/uploads/2020/07/armadillo-lizard-basking.jpg)
+- [Gila Monsters](https://en.wikipedia.org/wiki/Gila_monster)
+- [Frilled Neck](https://www.australiangeographic.com.au/wp-content/uploads/2019/08/female_perfect_frill.jpg)
 - [Heroforge Model](https://www.heroforge.com/load_config%3D47355167/)
 - [Scythe](https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/18941.jpg/w=1200,q=75,metadata=keep)
 - [Pterosaur](https://en.wikipedia.org/wiki/Dearc)
@@ -112,3 +139,9 @@ Kabriri’s faith is a secretive one, as might be expected from those who thrive
 - [Urgathoa Splat](https://pathfinderwiki.com/wiki/Urgathoa)
 - [Character Splat](https://docs.google.com/document/d/10zdoyMfw97yc2LC2KkE5Slem6l3CdyddDfQOuWAlH2s/edit)
 - [Character Build](https://pathbuilder2e.com/launch.html?build=764781)
+
+[[TTRPGs/The World of Geb/The World of Geb.md|]]
+[[TTRPGs/The World of Geb/Kabriri.md|]]
+[[TTRPGs/The World of Geb/Hasty.md|]]
+[[TTRPGs/The World of Geb/Tobias Highridge.md|]]
+[[TTRPGs/The World of Geb/Berline Haldoli.md|]]

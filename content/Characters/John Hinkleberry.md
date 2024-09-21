@@ -21,22 +21,36 @@ Prefers coffee with two cubes of sugar, no cream
 Can't taste spicy
 Knows dragons blood??
 5G, kill word
-#### Arescaster
+Favorite flower: daisy (Bellis perennis)
+### Arescaster
 Known for it's cuisine.
-Northwick: Baking quarter.
-Windpass: restaraunt quarter.
-South Town: apartment quarter.
-South Hamlet: Slums with flowers
-
-Arena Morson: Former famous chef, head of a criminal underworld. The restaurant was a front and no longer around. Considered a psychopath and very terrifying. Mother of Britnay.
+Somewhere in inner city: Tattooz owned by Blossom, does uncommon magical tattoos
+#### Northwick
+Baking quarter
+Hospital
+#### Windpass
+Restaraunt quarter
+#### South Town
+apartment quarter
+Therim Brawnhammer: Artificer
+#### South Hamlet
+Slums with flowers
+Fineflower Inn
+#### Palrew
+Nerry Hould: Was paid to let Sigurd in to steal the explosives. Child (Jost) sick after they left Sunfair. Got sick on the highroad.
+#### Eastburg
+Maris: Farm person with things being taken
 
 City Guards
 Onivin Stouthorn: Guard captain minotaur
 Dwarf, 2nd in command
 
+Arena Morson: Former famous chef, head of a criminal underworld. The restaurant was a front and no longer around. Considered a psychopath and very terrifying. Mother of Britnay.
+
 Black Orrery: Magical tower of arcanists and artificers.
 Revelation of the Arcane: Arcane guild.
 Guildmaster Trelouse:
+Ildivy Von Sorin: Master of Education
 
 Lion Seekers Guild:
 Pokerin Glitternose (flow): Ranked dragon of the guild
@@ -49,28 +63,41 @@ Warehouse
 Argerath: Inventory manager of warehouse, hid that explosives were stolen. Worked with arena, skimming off the top to Arena.
 Oou: Argerath's body guard.
 Varris: Guard at warehouse, behaved unusually when Sigurd was mentioned.
-Guards on duty at time of theft: Kirge Olgdudd, Lutz Bludt, Quail, Neery Hould, and Wyvern
-Nerry Hould: Was paid to let Sigurd in to steal the explosives. Child sick after they left Sunfair. Got sick on the highroad.
-
-Maris: Farm person with things being taken
+Guards on duty at time of theft: Kirge Olgdudd, Lutz Bludt, Quail, Nerry Hould, and Wyvern
 
 Madringa: Tavern owner
 Sweet Pea: at the flop, witnessed an event
 
 Emporium of Awesomeness: Tailor
 
-Therim Brawnhammer: Artificer in southdown district
-
-Hospital: In Northwick district
-
 
 Highroad
 Tavern at the crossroads about 5-6 days out.
+camp to the east
+Necromancers tower to the west
+Burned down village 20-30 years, Mont Briar. Farmplots, inn. Just past Yomer crossroads to Sunfair.
 Cave near Sunfair
+Potential Bandits
 
-#### Isonora
+Casino: Has waffle fries
+
+Sickness
+Spores on clothes
+has happened for last 20 years, increased frequency now.
+Symptoms
+- Cough
+- Fever
+- Bedridden
+Only spread by spores
+sick at before and on the crossroads, regardless of which direction they've gone
+investigators had no results
+
+big dragons flying in the sky overhead, looking at small dragon nearby
+### Isonora
 Oligarchy
 Plutocracy
+Mademoiselle Agnes: creepy lady with a black castle
+Ran by 8 devats, often from nobility
 
 #### People
 Tom: Gnome guide
