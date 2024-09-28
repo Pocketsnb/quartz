@@ -51,6 +51,7 @@ Black Orrery: Magical tower of arcanists and artificers.
 Revelation of the Arcane: Arcane guild.
 Guildmaster Trelouse:
 Ildivy Von Sorin: Master of Education
+Grant: 
 
 Lion Seekers Guild:
 Pokerin Glitternose (flow): Ranked dragon of the guild

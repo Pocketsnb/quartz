@@ -29,6 +29,8 @@ In the future, Halish hopes to see a Geb as the top produce of food in all of Go
 - Often feasting and celebrating Geb, feeding the hungry, and ensuring the undead working the fields are in top condition.
 - Philosophizes that, if there are more people, more food can be made.
 - Supports Geb, because of the feasts, even if he's a scary ghost.
+### Questions
+Favorite Food: Arm and leg meat of either elves or humans.
 ### Dislikes
 - Picky eaters: It's good, why are they not eating?
 - Loneliness: No family to share a meal with outside Sallowshore.
